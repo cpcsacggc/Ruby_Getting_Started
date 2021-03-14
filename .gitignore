@@ -17,3 +17,9 @@
 
 # Ignore ruby-version
 /.ruby-version
+
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/ruby-getting-started.iml
+.idea/vcs.xml
